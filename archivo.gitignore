@@ -1,0 +1,8 @@
+# Ignorar los archivos compilados
+*.exe
+*.lib
+*.exp
+
+# Ignorar carpetas generadas por Visual Studio y otros IDEs
+.vs/
+.idea/
