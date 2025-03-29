@@ -12,6 +12,7 @@ The project uses the NVIDIA CUDA API to perform `N x N` matrix multiplication on
 - **NVIDIA GPU** with CUDA support.
 - **Visual Studio Code** with the necessary extensions for CUDA development (e.g., C/C++ extension).
 - **Git** for version control and source code management.
+- **x64 Native Tool Command**
 
 ## Installation
 
